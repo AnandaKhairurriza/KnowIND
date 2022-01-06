@@ -2,53 +2,14 @@
 
 [Website KnowIND](https://knowind-website.com/) merupakan website untuk mengelola konten pada Aplikasi Mobile KnowIND, user dapat mendaftar sebagai kontributor untuk membantu menambahkan konten-konten untuk Aplikasi KnowIND, sedangkan admin dapat mengelola penuh data-data (Create, Update, Delete).
 
-- 
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Registrasi sebagai Kontributor
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Untuk mendaftarkan akun di Website KnowIND, user dapat menekan tombol register yang berada di sebelah pojok kanan atas (sebelah tombol sign in). Selanjutnya akan muncul form untuk mendaftarkan akun, user harus mengisi username, email, dan password yang ingin didaftarkan di Website KnowIND. Setelah selesai user akan langsung login sebagai kontributor.
 
-## Learning Laravel
+Jika ingin mengedit profil user dapat mengklik username di pojok kanan atas kemudian pilih edit akun, atau bisa dilakukan dengan mengklik gear icon di sidebar. Di halaman edit profil, user dapat mengganti username, password, dan profil picture.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Mengelola data konten pada Website KnowIND
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Halaman manage data digunakan untuk mengelola data-data untuk konten di Aplikasi KnowIND, halaman ini hanya bisa diakses apabila user sudah login sebagai kontributor. User dapat melihat data-data yang telah diinput dan menambahkan data (khusus admin dapat update dan delete data).
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
+Untuk menambahkan data, user dapat mengklik tombol tambah data pada data tabel yang ingin ditambahkan oleh user. Selanjutnya user akan diarahkan ke form input data. User harus mengisi setiap inputan yang ada di form tersebut untuk menambahkan data. Untuk halaman edit data sama seperti dengan halaman tambah data, tetapi form yang disediakan telah terisi dengan data yang dipilih user.
