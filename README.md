@@ -1,5 +1,8 @@
 ## Website KnowIND
 
+![LogoKnowINDsmall](https://user-images.githubusercontent.com/96167699/161691153-fd0d3b11-95d4-482f-8e85-046e83278ee0.png)
+
+
 [Website KnowIND](https://knowind-website.com/) merupakan website untuk mengelola konten pada Aplikasi Mobile KnowIND, user dapat mendaftar sebagai kontributor untuk membantu menambahkan konten-konten untuk Aplikasi KnowIND, sedangkan admin dapat mengelola penuh data-data (Create, Update, Delete).
 
 ## Registrasi sebagai Kontributor
