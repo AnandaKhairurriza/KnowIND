@@ -5,6 +5,11 @@
 
 [Website KnowIND](https://knowind-website.com/) merupakan website untuk mengelola konten pada Aplikasi Mobile KnowIND, user dapat mendaftar sebagai kontributor untuk membantu menambahkan konten-konten untuk Aplikasi KnowIND, sedangkan admin dapat mengelola penuh data-data (Create, Update, Delete).
 
+Note:
+- Front-end framework menggunakan Bootstrap 4
+- Back-end framework menggunakan Laravel 7
+- Penyimpanan database menggunakan MySQL
+
 ## Registrasi sebagai Kontributor
 
 Untuk mendaftarkan akun di Website KnowIND, user dapat menekan tombol register yang berada di sebelah pojok kanan atas (sebelah tombol sign in). Selanjutnya akan muncul form untuk mendaftarkan akun, user harus mengisi username, email, dan password yang ingin didaftarkan di Website KnowIND. Setelah selesai user akan langsung login sebagai kontributor.
